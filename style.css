@@ -1,0 +1,18 @@
+* {
+	text-align:center;
+}
+.Contour {
+	border:5px ridge #7d0303;
+	background-color:#d9d9d9;
+	margin-bottom:8px;
+	padding-top:5px;
+	margin-left:50px;
+	margin-right:50px;
+	padding-right:40px;
+}
+.selected {
+  background-color: white;
+}
+.poubelle {
+    display: none;
+}
